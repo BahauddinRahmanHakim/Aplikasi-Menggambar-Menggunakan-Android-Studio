@@ -6,14 +6,23 @@ Fungsi utama dari Arted meliputi kemampuan untuk menggambar dengan berbagai warn
 Key Features: Pemilihan warna, Penyesuaian ukuran kuas, Alat penghapus, reset canvas, save to gallery.
 
 # 1. Fitur Utama
+
 •	Menggambar Bebas: Pengguna dapat menggambar di kanvas dengan gerakan bebas.
+
 •	Pemilihan Warna: Pengguna dapat memilih warna yang diinginkan dari palet warna yang tersedia (Merah, Hijau, Biru, Hitam).
+
 •	Pengaturan Ukuran Kuas: Pengguna dapat menyesuaikan ukuran kuas sesuai kebutuhan, dengan input numerik.
+
 •	Penghapus (Eraser): Pengguna dapat menghapus bagian gambar dengan menggunakan fitur penghapus.
+
 •	Reset Kanvas: Pengguna dapat menghapus seluruh gambar di kanvas dan memulai gambar baru.
+
 •	Simpan Gambar: Pengguna dapat menyimpan gambar yang telah dibuat ke galeri perangkat.
+
 •	Navigasi ke Subpage: Pengguna dapat berpindah ke halaman lain.
+
 •	Navigasi ke Main: Pengguna dapat kembali ke halaman utama.
+
 •	Navigasi ke Opening: Pengguna dapat berpindah ke halaman pembuka.
 
 Hal yang dipertimbagnkan:
