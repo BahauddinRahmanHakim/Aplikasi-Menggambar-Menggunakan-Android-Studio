@@ -17,6 +17,7 @@ Key Features: Pemilihan warna, Penyesuaian ukuran kuas, Alat penghapus, reset ca
 •	Navigasi ke Opening: Pengguna dapat berpindah ke halaman pembuka.
 
 Hal yang dipertimbagnkan:
+
 •	Alat menggambar Tingkat lanjut (perubahan bentuk kuas, layer, gradient, dll).
 
 •	Fitur Cloud storage atau sharing.
