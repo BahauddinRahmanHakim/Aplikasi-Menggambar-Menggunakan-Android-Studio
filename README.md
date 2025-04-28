@@ -1,5 +1,6 @@
 # Arted
 Arted adalah aplikasi Android yang dirancang untuk memberikan pengalaman menggambar digital yang sederhana dan intuitif. Aplikasi ini memungkinkan pengguna untuk membuat sketsa, menggambar, dan berkreasi dengan berbagai pilihan warna dan ukuran kuas. Tujuan utama dari program ini adalah untuk menyediakan platform yang mudah digunakan bagi siapa saja yang ingin mengekspresikan kreativitas mereka melalui gambar, baik untuk sekadar mencoret-coret, membuat sketsa cepat, atau membuat karya seni yang lebih detail.
+
 Fungsi utama dari Arted meliputi kemampuan untuk menggambar dengan berbagai warna, menyesuaikan ukuran kuas, menghapus bagian gambar, menyimpan gambar ke galeri perangkat, dan mereset kanvas untuk memulai gambar baru. Aplikasi ini juga menyediakan navigasi ke halaman lain, yang memungkinkan pengguna untuk memperluas pengalaman mereka. Dengan antarmuka yang bersih dan mudah dipahami, Arted cocok untuk pengguna dari segala usia dan tingkat keahlian.
 
 Key Features: Pemilihan warna, Penyesuaian ukuran kuas, Alat penghapus, reset canvas, save to gallery.
@@ -17,42 +18,65 @@ Key Features: Pemilihan warna, Penyesuaian ukuran kuas, Alat penghapus, reset ca
 
 Hal yang dipertimbagnkan:
 •	Alat menggambar Tingkat lanjut (perubahan bentuk kuas, layer, gradient, dll).
+
 •	Fitur Cloud storage atau sharing.
+
 •	Pemilihan warna kustom (pemilihan melebihi warna yang ditentukan).
+
 •	Fungsi undo/redo.
 
 # 2. Proses Pembuatan
 2.1.	Planning dan Requirements:
 Konsep awal: Project ini berawal dengan ide pengembangan aplikasi menggambar simpel.
+
 Requirements:
+
 •	Canvas untuk menggambar.
+
 •	Pemilihan warna.
+
 •	Penyesuaian ukuran kuas.
+
 •	Penghapus.
+
 •	Canvas reset.
+
 •	Fitur penyimpanan.
+
 Metodologi: Pendekatan iteratif digunakan, dengan fokus pada membangun fungsionalitas inti terlebih dahulu dan kemudian menyempurnakannya.
 
 2.2.	Fase Design
+
 •	UI Design: User Interface(UI) di desain intuitif dan rapi, dengan toolbar untuk kontrol alat menggambar dan canvas untuk menggambar.
+
 •	Component-Based: UI disusun menggunakan Jetpack Compose, memecah UI menjadi komponen-komponen yang dapat digunakan kembali seperti ColorPicker dan BrushSizeSelector.
+
 •	State Management: Sistem manajemen status Compose digunakan untuk menangani status gambar (garis, warna, ukuran kuas).
 
 2.3.	Fase Pengembangan
+
 Teknologi yang digunakan sebagai berikut
 
 Bahasa: Kotlin
+
 Framework: Jetpack Compose (untuk UI), Android Jetpack (untuk komponen lainnya)
+
 Tools: Android Studio
+
 Database: Tidak ada database yang digunakan (gambar disimpan langsung ke galeri perangkat).
 
 2.4.	Testing dan kontrol kualitas
+
 •	Pengujian Manual: Aplikasi diuji secara manual pada emulator dan perangkat fisik untuk memastikan fungsionalitas gambar, pemilihan warna, penyesuaian ukuran kuas, penghapus, pengaturan ulang, dan penyimpanan berfungsi seperti yang diharapkan.
+
 •	Fokus: Fokus utamanya adalah memastikan fungsionalitas menggambar berjalan lancar dan responsif.
+
 •	Pelacakan Masalah: Masalah apa pun yang ditemukan selama pengujian ditangani secara langsung dalam kode.
 
 2.5.	Deployment
+
 •	Target: Aplikasi ini didesain untuk digunakan pada perangkat Android.
+
 •	Process: Aplikasi ini dapat dibuat dan diinstal langsung dari Android Studio ke perangkat atau emulator.
 
 # 3.	Hasil Project
