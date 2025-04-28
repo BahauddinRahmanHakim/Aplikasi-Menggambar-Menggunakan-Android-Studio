@@ -60,49 +60,49 @@ Database: Tidak ada database yang digunakan (gambar disimpan langsung ke galeri 
 
 •	Tampilan layer loading setika pertama kali masuk aplikasi yang menampilkan logo aplikasi dengan background berwarna putih 
 
-![Image](https://github.com/user-attachments/assets/e915e4cc-633e-44d8-a4e5-28a76f5d8de8)
+![Image](https://github.com/user-attachments/assets/6c87d780-075e-45d8-95fa-b1f980fe8fa4)
 
 •	Halaman Pembuka setelah layar loading telah selesai. Berisi kalimat selamat datang dan tombol get started untuk memulai aplikasi
 
- ![Image](https://github.com/user-attachments/assets/523ab7ea-c0d9-41b8-93f0-dc276483d5f7)
+![Image](https://github.com/user-attachments/assets/44596382-a05f-4b3d-b52e-67ad548ca6a0)
  
 •	Halaman Subpage setelah menekan tombol subpage pada halaman utama, isinya berupa manual penggunaan aplikasi Arted
 
- ![Image](https://github.com/user-attachments/assets/2d62fbcd-d442-476f-9586-11d9a4497e4b)
+![Image](https://github.com/user-attachments/assets/0afeccce-3fc0-4c81-9f1f-405bb3626678)
  
 •	Kanvas : Area kanvas putih yang besar di mana pengguna dapat menggambar dengan bebas menggunakan input sentuh.
 
- ![Image](https://github.com/user-attachments/assets/6ae2b902-0692-4079-939a-00c13f693193)
- ![Image](https://github.com/user-attachments/assets/424145f6-dca6-4905-b977-438b46db8731)
+ ![Image](https://github.com/user-attachments/assets/dc83bae5-6682-4905-b635-74657f866aa2)
+ ![Image](https://github.com/user-attachments/assets/00908960-2074-48ea-91cf-8b4c57235263)
  
 •	Pemilih Warna: Komponen ColorPicker memungkinkan pengguna untuk memilih dari empat warna yang sudah ditentukan sebelumnya (Merah, Hijau, Biru, Hitam). 
 
-![Image](https://github.com/user-attachments/assets/dbe78b8f-c803-487b-9e62-690a168403dd)
+![Image](https://github.com/user-attachments/assets/91adca5c-7b07-4096-a9ff-ebdf6227f82c)
 
 •	Pemilih Ukuran Kuas: Komponen BrushSizeSelector memungkinkan pengguna untuk menyesuaikan ukuran kuas dengan memasukkan nilai numerik.  
 
-![Image](https://github.com/user-attachments/assets/7e47fbfa-fa23-4b95-8258-fd50602d9837)
+![Image](https://github.com/user-attachments/assets/0f47471b-e495-48d5-bed6-5ec2a75a93db)
 
 •	Drop down: dikarenakan banyaknya tombol pada top app bar, pada layer yang lebih kecil akan menghasilkan tampilan yang menumpuk jadi fungsinya tidak bisa dipakai oleh karena itu saya memakai drop down button dan penggunaan icon untuk setiap fungsi agar cukup. 
 
-  ![Image](https://github.com/user-attachments/assets/242f37cd-2818-4740-9bf2-078f72a76bcf)
-  ![Image](https://github.com/user-attachments/assets/10803a35-b2ea-4709-ba02-e2ce37017bb0)
+  ![Image](https://github.com/user-attachments/assets/14bff901-4e90-4416-9625-6146de0d7296)
+  ![Image](https://github.com/user-attachments/assets/2a836fc5-fa89-4a00-be52-503a129a6ace)
 
 •	Penghapus: Alat penghapus yang memungkinkan pengguna untuk menghapus bagian dari gambar mereka dengan menggambar di atasnya dengan warna putih. 
 
-![Image](https://github.com/user-attachments/assets/1bf35d94-a6f3-4468-96af-048bfb58f7f0)
+![Image](https://github.com/user-attachments/assets/9d021127-1622-4981-9685-3342f3703863)
  
 •	Reset: Tombol “Reset” akan mengosongkan kanvas, menghapus semua garis. 
 
-![Image](https://github.com/user-attachments/assets/ac1b396e-6b0d-4942-b59e-197badc076bb)
+![Image](https://github.com/user-attachments/assets/6bc2079a-aeb1-4ed9-bef2-a460b3d108ba)
  
 •	Simpan: Tombol “Save” menyimpan gambar saat ini ke galeri perangkat sebagai gambar PNG. 
 
-![Image](https://github.com/user-attachments/assets/ad42f24f-afbf-4000-b6d0-3b80bee77644)
+![Image](https://github.com/user-attachments/assets/1f9f5bef-599b-4052-a08b-acb3e52601d7)
  
 •	Tombol Subpage untuk membuka halaman Subpage
 
-![Image](https://github.com/user-attachments/assets/98a9d317-3764-42a4-bafe-493ec6b4c89d)
+![Image](https://github.com/user-attachments/assets/3efbb9d8-6e58-4abb-acc9-431e073fcc41)
  
 •	Izin: Aplikasi meminta izin penyimpanan untuk menyimpan gambar.
 
